@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TAVA VAJADZBA_menu-dropdownTrigger-1-s</name>
+   <tag></tag>
+   <elementGuidId>c1a054a1-940e-4395-93a2-fea92a11ae80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.menu-title-3KT.menu-hover-2ZV > a.text-small.text-upper.text-primary.menu-titleText-2Qo.menu-displayFirst-1Pg.link-never-vP7 > div.menu-dropdownTrigger-1-s</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div[2]/div[2]/ul/li[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e9a62232-623c-4e50-9961-6815b22663b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-dropdownTrigger-1-s</value>
+      <webElementGuid>81a43f47-e128-45dd-b2ed-f9cfb732b926</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;header-root-3zR header-fixed-3Fr&quot;]/div[@class=&quot;header-wrapper-3hG&quot;]/div[@class=&quot;header-content-1wQ&quot;]/div[@class=&quot;header-secondRow-1Wz&quot;]/ul[@class=&quot;menu-root-1cB&quot;]/li[@class=&quot;menu-title-3KT menu-hover-2ZV&quot;]/a[@class=&quot;text-small text-upper text-primary menu-titleText-2Qo menu-displayFirst-1Pg link-never-vP7&quot;]/div[@class=&quot;menu-dropdownTrigger-1-s&quot;]</value>
+      <webElementGuid>8a129c0e-d354-4b9c-974a-a25e91cfecea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div[2]/div[2]/ul/li[2]/a/div</value>
+      <webElementGuid>62c63f4f-059b-4788-9f31-3b0e41969cac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div</value>
+      <webElementGuid>18d08246-d4fb-4fc0-b736-7068ceb26b4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

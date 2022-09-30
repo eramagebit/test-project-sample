@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Apstiprini piegdes veidu</name>
+   <tag></tag>
+   <elementGuidId>26f1cd1a-4394-4f8e-b148-dc5314d01150</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-primary-2sr.button-fullWidth-2zB</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e770667f-9bb6-4948-8513-ac1fe550ce15</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>1e81b150-03d9-43c8-a5fc-b8147a5999ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-primary-2sr button-fullWidth-2zB</value>
+      <webElementGuid>2905213f-2527-45de-9ed7-6040c2dd70f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Apstiprini piegādes veidu</value>
+      <webElementGuid>be2ec325-1b1f-4307-a573-92f70ed7727c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;main-content-3U-&quot;]/div[@class=&quot;checkoutPage-root-1g1&quot;]/div[@class=&quot;checkoutPage-container-E0x&quot;]/div[@class=&quot;checkoutPage-main-2nO&quot;]/div[1]/div[2]/div[@class=&quot;checkoutStep-root-2-p&quot;]/div[@class=&quot;checkoutStep-content-bW9&quot;]/div[@class=&quot;loaderWrapper-root-PmU&quot;]/form[1]/button[@class=&quot;button-primary-2sr button-fullWidth-2zB&quot;]</value>
+      <webElementGuid>ccb9e0b2-1b09-4c9d-8c30-c3f6a5552156</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>de20d10d-9bb3-46e6-b086-a1c1f8b17505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div/div[2]/div/form/button</value>
+      <webElementGuid>bf034ea2-34a4-4485-b72d-9506d554ac3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ilgtspējīgs'])[1]/following::button[1]</value>
+      <webElementGuid>67a4e196-6def-4b46-80df-d44ead694158</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Est. delivery on Oct 03, 2022'])[3]/following::button[1]</value>
+      <webElementGuid>27c47c8a-7572-4437-ba96-2ea02f25241a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saņēmēja piegādes dati'])[1]/preceding::button[1]</value>
+      <webElementGuid>5ce3e14a-098a-48db-b32c-d89214eeb004</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Maksājuma detaļas'])[1]/preceding::button[1]</value>
+      <webElementGuid>17af8696-c19a-42f8-9725-ed44d6bc5c07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>2bdecfa9-56ac-4d9e-97eb-098fe633fffe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = 'Apstiprini piegādes veidu' or . = 'Apstiprini piegādes veidu')]</value>
+      <webElementGuid>267865d2-07bc-4083-a02e-ad9e5cd85f42</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

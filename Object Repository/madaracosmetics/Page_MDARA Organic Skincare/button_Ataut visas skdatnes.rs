@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Ataut visas skdatnes</name>
+   <tag></tag>
+   <elementGuidId>a6d6162b-6af6-49ce-8e38-9a01d73977f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.gdprPopUp-addCookies-3oc > button.button-primary-2sr</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>402c338f-b28e-46c2-8af0-777db79a90d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b9521835-f090-4be0-8f1a-803eb3d3e24f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-primary-2sr</value>
+      <webElementGuid>e57c0a06-0a4c-463a-9ae4-d6ad916a91ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Atļaut visas sīkdatnes</value>
+      <webElementGuid>3b0a914b-9ec3-46be-86ca-874ea1a73fb2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/form[@class=&quot;gdprPopUp-root-1zT&quot;]/div[@class=&quot;gdprPopUp-addCookies-3oc&quot;]/button[@class=&quot;button-primary-2sr&quot;]</value>
+      <webElementGuid>d67841b6-f50d-4184-a7f4-c923d76eb53a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[2]</value>
+      <webElementGuid>cf570ee4-c482-41f7-b18f-1b89311035e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/form/div[2]/button[3]</value>
+      <webElementGuid>4851cd40-43b2-4e6f-ae41-fdc36dc95adf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saglabāt'])[1]/following::button[1]</value>
+      <webElementGuid>324ff8f4-919f-494e-9a59-cde1aad7e8c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pārvaldīt sīkdatnes'])[1]/following::button[2]</value>
+      <webElementGuid>c5a02229-58b7-4cea-b4d5-f71f490db5d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Atļaut visas sīkdatnes']/parent::*</value>
+      <webElementGuid>36ed62a8-1e26-44bb-994e-dfe1e069dac8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>1fdeeb79-717c-4276-9459-f4d533610c80</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Atļaut visas sīkdatnes' or . = 'Atļaut visas sīkdatnes')]</value>
+      <webElementGuid>6d5cf2e3-468c-4762-8181-9080425f18cb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

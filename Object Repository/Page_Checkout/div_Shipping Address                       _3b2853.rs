@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Shipping Address                       _3b2853</name>
+   <tag></tag>
+   <elementGuidId>7649a195-3995-4750-a828-5638d73d7837</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkout']/div[5]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkout-block</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>9a74cac3-aa9e-4f14-9680-c43ba0814d5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>{ css: $parents[1].getOneStepModel().getBlockClassNames(block.name), attr: $parents[1].getOneStepModel().getBlockAttrs() }</value>
+      <webElementGuid>268697c2-082d-4974-b843-90af67842083</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkout-block</value>
+      <webElementGuid>3247a590-18d4-4ed1-abee-6cba8c313f7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>   Shipping Address                                        First Name               Last Name               Company                Street Address       Street Address: Line 1                     Street Address: Line 2                     City               Country     United States──────────AustraliaCanadaU.S. Outlying IslandsU.S. Virgin Islands           State/Province    Please select a region, state or province.AlbertaBritish ColumbiaManitobaNew BrunswickNewfoundland and LabradorNorthwest TerritoriesNova ScotiaNunavutOntarioPrince Edward IslandQuebecSaskatchewanYukon Territory           State/Province               Zip/Postal Code             Provided Zip/Postal Code seems to be invalid. Example: A1B 2C3; A1B2C3; A1B. If you believe it is the right one you can ignore this notice.     Professional  License Type     Physical TherapistChiropractorAthletic TrainerAcupuncturistMedical DoctorNurse PractitionerOther           Provider License Number               Licensing State               Phone Number           Tooltip    For delivery questions.                  Save in address book       </value>
+      <webElementGuid>d531772e-75d3-477d-9516-2ea9fcfb49d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkout&quot;)/div[@class=&quot;opc-wrapper am-opc-wrapper layout-3columns am-submit-summary&quot;]/div[@class=&quot;checkout-column opc&quot;]/div[@class=&quot;checkout-block&quot;]</value>
+      <webElementGuid>1f4aa8dc-0f31-4cba-b2f6-91e6b68b86b4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='checkout']/div[5]/div/div</value>
+      <webElementGuid>f361f62c-0447-4b48-82e8-83ca535051a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The shipping method is missing. Select the shipping method and try again.'])[1]/following::div[3]</value>
+      <webElementGuid>0e0b1946-3bcf-448e-a00d-3c8d7ab7c0f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$2,669.40'])[2]/following::div[7]</value>
+      <webElementGuid>d3766208-a5d5-464d-98f7-1f2a5e5e43d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/div</value>
+      <webElementGuid>f747301b-f671-4bb4-82b0-eba2eb9773ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '   Shipping Address                                        First Name               Last Name               Company                Street Address       Street Address: Line 1                     Street Address: Line 2                     City               Country     United States──────────AustraliaCanadaU.S. Outlying IslandsU.S. Virgin Islands           State/Province    Please select a region, state or province.AlbertaBritish ColumbiaManitobaNew BrunswickNewfoundland and LabradorNorthwest TerritoriesNova ScotiaNunavutOntarioPrince Edward IslandQuebecSaskatchewanYukon Territory           State/Province               Zip/Postal Code             Provided Zip/Postal Code seems to be invalid. Example: A1B 2C3; A1B2C3; A1B. If you believe it is the right one you can ignore this notice.     Professional  License Type     Physical TherapistChiropractorAthletic TrainerAcupuncturistMedical DoctorNurse PractitionerOther           Provider License Number               Licensing State               Phone Number           Tooltip    For delivery questions.                  Save in address book       ' or . = '   Shipping Address                                        First Name               Last Name               Company                Street Address       Street Address: Line 1                     Street Address: Line 2                     City               Country     United States──────────AustraliaCanadaU.S. Outlying IslandsU.S. Virgin Islands           State/Province    Please select a region, state or province.AlbertaBritish ColumbiaManitobaNew BrunswickNewfoundland and LabradorNorthwest TerritoriesNova ScotiaNunavutOntarioPrince Edward IslandQuebecSaskatchewanYukon Territory           State/Province               Zip/Postal Code             Provided Zip/Postal Code seems to be invalid. Example: A1B 2C3; A1B2C3; A1B. If you believe it is the right one you can ignore this notice.     Professional  License Type     Physical TherapistChiropractorAthletic TrainerAcupuncturistMedical DoctorNurse PractitionerOther           Provider License Number               Licensing State               Phone Number           Tooltip    For delivery questions.                  Save in address book       ')]</value>
+      <webElementGuid>674401dd-4d67-4975-917a-017e39530be0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

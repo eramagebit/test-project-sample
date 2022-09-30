@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Phone_form-control</name>
+   <tag></tag>
+   <elementGuidId>4d17bbce-aa11-47a6-afd8-0ef3cd5555a7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@placeholder = 'Telefona numurs' and @type = 'tel']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>6b59d467-2911-4dde-bb83-efe1cd0cc0b8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value> form-control</value>
+      <webElementGuid>7665ef7c-20f8-42b7-9f0d-66487a56e6e8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Telefona numurs</value>
+      <webElementGuid>ab97bf22-03fa-422f-a192-ef4bdb401376</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>tel</value>
+      <webElementGuid>d818e252-5c00-4e5f-ada2-8cc87029dec3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>+371 1</value>
+      <webElementGuid>a3549a79-483b-4fe7-99e3-55bda0cac6c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;main-content-3U-&quot;]/div[@class=&quot;checkoutPage-root-1g1&quot;]/div[@class=&quot;checkoutPage-container-E0x&quot;]/div[@class=&quot;checkoutPage-main-2nO&quot;]/div[1]/div[2]/div[@class=&quot;checkoutStep-root-2-p&quot;]/div[@class=&quot;checkoutStep-content-bW9&quot;]/div[@class=&quot;loaderWrapper-root-PmU&quot;]/form[1]/div[@class=&quot;guestForm-addresses-12q&quot;]/div[@class=&quot;checkoutFieldset-root-2D6&quot;]/div[@class=&quot;addressFields-root-18c&quot;]/div[@class=&quot;field-root-1hC&quot;]/div[@class=&quot;phoneNumber-root-e1q&quot;]/div[@class=&quot;fieldIcons-root-2Eb&quot;]/span[@class=&quot;fieldIcons-input-3FR&quot;]/div[@class=&quot;react-tel-input&quot;]/input[@class=&quot;form-control&quot;]</value>
+      <webElementGuid>d5cc6ddb-7284-4eac-8d3d-6c08f939fac7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='+371 1']</value>
+      <webElementGuid>f0105027-8530-4c33-9b34-a8e5dac95d32</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div[2]/div[2]/div/form/div[2]/div/div/div[9]/div/div/span/div/input</value>
+      <webElementGuid>a0c9c880-09a2-4938-ba17-aa548c7c7dd4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/div/input</value>
+      <webElementGuid>9e839758-762a-464b-a074-ade124225acc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'Telefona numurs' and @type = 'tel']</value>
+      <webElementGuid>360b46ee-be28-46db-94e7-0f738c07be00</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

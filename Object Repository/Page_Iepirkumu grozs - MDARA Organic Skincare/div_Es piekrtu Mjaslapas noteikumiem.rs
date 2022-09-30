@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Es piekrtu Mjaslapas noteikumiem</name>
+   <tag></tag>
+   <elementGuidId>3e7ce5f8-899f-414a-8366-df0768a093e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.checkoutPage-tosWrapper-1KO</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div[4]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5d1e6c7b-a339-479b-a43e-f558a222dd4e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>checkoutPage-tosWrapper-1KO</value>
+      <webElementGuid>710a2a9d-5e84-4627-9b45-0e3366f82f1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Es piekrītu Mājaslapas noteikumiem*</value>
+      <webElementGuid>e2d7c6e7-2616-4025-befb-e0b031f219e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;main-content-3U-&quot;]/div[@class=&quot;checkoutPage-root-1g1&quot;]/div[@class=&quot;checkoutPage-container-E0x&quot;]/div[@class=&quot;checkoutPage-main-2nO&quot;]/div[1]/div[2]/div[@class=&quot;checkoutPage-tosWrapper-1KO&quot;]</value>
+      <webElementGuid>04184a39-ba80-450d-8093-87beeac3eb0a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div[4]</value>
+      <webElementGuid>d9e25938-16f3-4881-a321-e46c6227b094</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trustly'])[1]/following::div[2]</value>
+      <webElementGuid>66a67215-96ab-4dfb-b2a4-1f031f4b9fc9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PayPal'])[1]/following::div[7]</value>
+      <webElementGuid>35cd1374-28e7-44fd-90bb-4e31778ace33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]</value>
+      <webElementGuid>94bbc7c6-1be3-489c-9a94-cc297442043f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Es piekrītu Mājaslapas noteikumiem*' or . = 'Es piekrītu Mājaslapas noteikumiem*')]</value>
+      <webElementGuid>edd89072-bb1d-49dc-9007-eac4f595b82f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

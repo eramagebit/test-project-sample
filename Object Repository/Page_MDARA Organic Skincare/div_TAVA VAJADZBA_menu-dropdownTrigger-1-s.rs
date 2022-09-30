@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TAVA VAJADZBA_menu-dropdownTrigger-1-s</name>
+   <tag></tag>
+   <elementGuidId>7d25bedf-0ecf-4c11-9050-c8ff54f8fa8f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.menu-title-3KT.menu-hover-2ZV > a.text-small.text-upper.text-primary.menu-titleText-2Qo.menu-displayFirst-1Pg.link-never-vP7 > div.menu-dropdownTrigger-1-s</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[2]/a/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>59e0d065-43d9-4eb6-b457-f23a42c17f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-dropdownTrigger-1-s</value>
+      <webElementGuid>29a6608b-aa43-42d7-b4f7-37965706e576</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;header-root-3zR header-fixed-3Fr&quot;]/div[@class=&quot;header-wrapper-3hG&quot;]/div[@class=&quot;header-content-1wQ&quot;]/div[@class=&quot;header-secondRow-1Wz&quot;]/ul[@class=&quot;menu-root-1cB&quot;]/li[@class=&quot;menu-title-3KT menu-hover-2ZV&quot;]/a[@class=&quot;text-small text-upper text-primary menu-titleText-2Qo menu-displayFirst-1Pg link-never-vP7&quot;]/div[@class=&quot;menu-dropdownTrigger-1-s&quot;]</value>
+      <webElementGuid>3cd02470-63a2-4efc-9e05-9518d38fc23d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div[2]/div[2]/ul/li[2]/a/div</value>
+      <webElementGuid>7cf13989-9de0-4dc7-ad08-4672857c7951</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div</value>
+      <webElementGuid>8985ff2c-a36b-46fd-8607-8c38416b2b97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

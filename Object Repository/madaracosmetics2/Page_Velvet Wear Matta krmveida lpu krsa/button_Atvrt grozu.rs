@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Atvrt grozu</name>
+   <tag></tag>
+   <elementGuidId>4c151418-81ec-47f0-adf0-360afc6382d1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.miniCart-openShoppingCart-2Ey</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div[2]/div/ul[2]/li/div/aside/div/div[3]/a/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ac9aa331-2402-4995-9e58-7142f605150b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>miniCart-openShoppingCart-2Ey</value>
+      <webElementGuid>d0fc0afa-a81d-4c9b-8fdb-fc49e16cf364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Atvērt grozu</value>
+      <webElementGuid>9afa53ba-e1bb-4271-9409-aa173e878a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;header-root-3zR&quot;]/div[@class=&quot;header-wrapper-3hG&quot;]/div[@class=&quot;header-content-1wQ&quot;]/div[@class=&quot;header-firstRow-3Qm&quot;]/ul[@class=&quot;header-buttons-31h&quot;]/li[@class=&quot;header-cart-RHA&quot;]/div[@class=&quot;cartTrigger-root-3-y&quot;]/aside[1]/div[@class=&quot;miniCart-contents-3gR&quot;]/div[@class=&quot;miniCart-footer-2Lw&quot;]/a[1]/button[@class=&quot;miniCart-openShoppingCart-2Ey&quot;]</value>
+      <webElementGuid>676a3f73-9016-465e-b5f2-59a36b86a129</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div[2]/div/ul[2]/li/div/aside/div/div[3]/a/button</value>
+      <webElementGuid>8dea742d-8b38-4411-9681-81665b934b26</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[2]/following::button[1]</value>
+      <webElementGuid>d1b33aa2-d5e7-4234-b40c-c2412aee1089</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vēlmju saraksts'])[1]/preceding::button[1]</value>
+      <webElementGuid>4ebbb28f-488f-45db-9dc2-e0cfab299082</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Atvērt Vēlmju Sarakstus'])[1]/preceding::button[1]</value>
+      <webElementGuid>600a1ecb-24fd-4686-8428-249e1d22429d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Atvērt grozu']/parent::*</value>
+      <webElementGuid>7118ca2b-2dd7-4fc1-9d28-480fd594f116</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>8b822143-7825-4452-8b30-7019847f76f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Atvērt grozu' or . = 'Atvērt grozu')]</value>
+      <webElementGuid>3c0282d1-776c-4806-a3b4-46d04fd74cc2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

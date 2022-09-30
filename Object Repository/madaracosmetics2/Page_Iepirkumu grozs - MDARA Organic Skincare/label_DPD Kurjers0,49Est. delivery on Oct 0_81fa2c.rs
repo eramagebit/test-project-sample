@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_DPD Kurjers0,49Est. delivery on Oct 0_81fa2c</name>
+   <tag></tag>
+   <elementGuidId>1f7e90df-afb0-42d3-9b3d-5199d19bedf2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div/div[2]/div/form/div[2]/label[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>1dded601-b206-459e-9973-b218702f528b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radioGroup-root-2Tl</value>
+      <webElementGuid>72b6b2ea-1377-4575-bc82-655151b4f7c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DPD Kurjers0,49 €Est. delivery on Oct 03, 2022Ilgtspējīgs</value>
+      <webElementGuid>dd94d343-93ee-473f-891f-30692b660ac3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;main-content-3U-&quot;]/div[@class=&quot;checkoutPage-root-1g1&quot;]/div[@class=&quot;checkoutPage-container-E0x&quot;]/div[@class=&quot;checkoutPage-main-2nO&quot;]/div[1]/div[2]/div[@class=&quot;checkoutStep-root-2-p&quot;]/div[@class=&quot;checkoutStep-content-bW9&quot;]/div[@class=&quot;loaderWrapper-root-PmU&quot;]/form[1]/div[@class=&quot;checkoutFieldset-root-2D6&quot;]/label[@class=&quot;radioGroup-root-2Tl&quot;]</value>
+      <webElementGuid>9a6905fd-ca9a-4023-a682-d106375af5df</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div/div[2]/div/form/div[2]/label[3]</value>
+      <webElementGuid>60cfcd4c-5e1f-475f-a729-74fdd66591f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Est. delivery on Oct 03, 2022'])[2]/following::label[1]</value>
+      <webElementGuid>3ea6c339-5bab-4aba-9cbb-59fdd91c6bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bezmaksas'])[2]/following::label[1]</value>
+      <webElementGuid>9524616f-1941-477b-95e3-1e1f2eca32e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[3]</value>
+      <webElementGuid>43c1bd3b-9fbb-45a5-bfcb-c9176fcf76cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'DPD Kurjers0,49 €Est. delivery on Oct 03, 2022Ilgtspējīgs' or . = 'DPD Kurjers0,49 €Est. delivery on Oct 03, 2022Ilgtspējīgs')]</value>
+      <webElementGuid>e00d2bf3-fd8d-415e-be55-be8739d05c07</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -17,38 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://katalon-test.s3.amazonaws.com/aut/html/form.html')
-
-WebUI.setText(findTestObject('null'), 'First name')
-
-WebUI.setText(findTestObject('null'), 'Last name')
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.click(findTestObject('null'))
-
-WebUI.setText(findTestObject('null'), 'Address')
-
-WebUI.setText(findTestObject('null'), 'email@email.com')
-
-WebUI.setEncryptedText(findTestObject('null'), 'p4y+y39Ir5MSxNs1t5lTZQ==')
-
-WebUI.setText(findTestObject('null'), 'Company')
-
-WebUI.selectOptionByValue(findTestObject('null'), 
-    'QA', true)
-
-WebUI.selectOptionByValue(findTestObject('null'), 
-    'High salary', true)
-
-WebUI.click(findTestObject('null'))
-
-WebUI.setText(findTestObject('null'), 'Comment')
-
-WebUI.click(findTestObject('null'))
-
-WebUI.closeBrowser()
