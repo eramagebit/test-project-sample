@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Express Pasts kurjersBezmaksasEst. de_e3ce5f</name>
+   <tag></tag>
+   <elementGuidId>aa4458b7-c17c-4edc-a1ce-2a7785172a07</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div/div[2]/div/form/div[2]/label[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>5e2730fb-b8a7-4688-815a-53cdb89b3d3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radioGroup-root-2Tl</value>
+      <webElementGuid>d7027ccf-b1c7-4b57-8ef9-0f831bf2a439</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Express Pasts kurjersBezmaksasEst. delivery on Oct 04, 2022</value>
+      <webElementGuid>0b92752a-3685-4663-b963-f4820022b723</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;main-content-3U-&quot;]/div[@class=&quot;checkoutPage-root-1g1&quot;]/div[@class=&quot;checkoutPage-container-E0x&quot;]/div[@class=&quot;checkoutPage-main-2nO&quot;]/div[1]/div[2]/div[@class=&quot;checkoutStep-root-2-p&quot;]/div[@class=&quot;checkoutStep-content-bW9&quot;]/div[@class=&quot;loaderWrapper-root-PmU&quot;]/form[1]/div[@class=&quot;checkoutFieldset-root-2D6&quot;]/label[@class=&quot;radioGroup-root-2Tl&quot;]</value>
+      <webElementGuid>f9da345e-971f-4f21-a321-95f8d55671a7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div/div[2]/div/form/div[2]/label[2]</value>
+      <webElementGuid>d5d938d6-5e0d-4eab-ab12-ce8112c87595</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[4]/following::label[1]</value>
+      <webElementGuid>b1edc7df-5f31-4b52-b73d-78382876bbac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pakomāts'])[2]/following::label[1]</value>
+      <webElementGuid>4a01ab0c-a559-4a7d-9402-3bf0b9647441</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[2]</value>
+      <webElementGuid>617e8b98-b670-49ae-8324-82ff8cf733dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'Express Pasts kurjersBezmaksasEst. delivery on Oct 04, 2022' or . = 'Express Pasts kurjersBezmaksasEst. delivery on Oct 04, 2022')]</value>
+      <webElementGuid>92296655-981b-4e73-8063-f6530a68e474</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

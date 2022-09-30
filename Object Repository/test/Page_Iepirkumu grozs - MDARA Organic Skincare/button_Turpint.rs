@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Turpint</name>
+   <tag></tag>
+   <elementGuidId>589f75ac-bacb-4a95-9359-5784bf6c9a1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.cartSummary-proceedToCheckout-24t > button.button-primary-2sr.button-fullWidth-2zB</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b128ae82-d8b4-4511-9dbb-d87aa04a9e9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-primary-2sr button-fullWidth-2zB</value>
+      <webElementGuid>aca11fb3-8e2a-46d9-9c06-7e699abc6a89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Turpināt</value>
+      <webElementGuid>4befbfee-6ea9-4bbc-8375-9c78d8ddba1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;main-content-3U-&quot;]/div[@class=&quot;cartPage-container-3XX&quot;]/div[@class=&quot;cartPage-root-4eJ&quot;]/div[@class=&quot;cartPage-body-TpU&quot;]/div[@class=&quot;cartPage-summaryContainer-1g5&quot;]/div[1]/div[@class=&quot;priceSummary-root-1or&quot;]/div[@class=&quot;cartSummary-actions-1ZL&quot;]/div[@class=&quot;cartSummary-proceedToCheckout-24t&quot;]/button[@class=&quot;button-primary-2sr button-fullWidth-2zB&quot;]</value>
+      <webElementGuid>bfaa7b04-c8a1-486e-b1f3-2fa02bd2f7ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div/div[2]/div[2]/div/div/div[2]/div/button</value>
+      <webElementGuid>c13862d1-bb4d-420e-be6f-5229b2078848</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pievienot bezmaksas paraudziņus'])[1]/following::button[1]</value>
+      <webElementGuid>be05faba-89bc-4b53-a17f-b5fb37ec9201</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iekļauti nodokļi (3.75 EUR)'])[1]/following::button[2]</value>
+      <webElementGuid>e778f19f-6c95-4638-8a1d-7baa08e4c8b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bezmaksas piegāde'])[1]/preceding::button[1]</value>
+      <webElementGuid>15e9d4ea-318f-4f42-81c1-08d43f066882</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Droša iepirkšanās'])[1]/preceding::button[1]</value>
+      <webElementGuid>4a14e9f9-7171-4053-b822-8b74a43d5233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Turpināt']/parent::*</value>
+      <webElementGuid>06a0ffee-95b6-4fae-ba90-80cc949efd34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/button</value>
+      <webElementGuid>2179f3cc-c8f0-48e9-953c-3e739e08bc8a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Turpināt' or . = 'Turpināt')]</value>
+      <webElementGuid>fa30255c-6860-4101-b05c-dffcbb5b4f21</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

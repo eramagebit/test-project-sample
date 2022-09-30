@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Turpiniet k viesis</name>
+   <tag></tag>
+   <elementGuidId>c0ec7c5c-c696-4608-8d08-c91e77010264</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.button-secondary-2QJ.button-fullWidth-2zB</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>7f342785-6617-4634-a9f3-480173efbe56</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>ba4c901f-dc53-49de-8133-48f04c890c49</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-secondary-2QJ button-fullWidth-2zB</value>
+      <webElementGuid>b4f5e45a-90e5-4452-b136-93089cc47ad5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Turpiniet kā viesis</value>
+      <webElementGuid>917b8c24-d035-4e34-bde3-19230779aad6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/aside[@class=&quot;dialog-root-1kR dialog-rootOpen-3S0&quot;]/div[@class=&quot;dialog-wrapper-1Dm&quot;]/div[@class=&quot;dialog-dialog-NuY dialog-dialogWithLogo-2Oo&quot;]/div[@class=&quot;dialog-body-30t&quot;]/div[@class=&quot;signIn-root-jBY&quot;]/div[@class=&quot;signIn-guestCheckout-3Ay&quot;]/button[@class=&quot;button-secondary-2QJ button-fullWidth-2zB&quot;]</value>
+      <webElementGuid>4a010353-730e-49e6-9899-d3d03b7684b6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[3]</value>
+      <webElementGuid>aea0d41d-9f8b-485a-b4fe-3e0190542d01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/aside/div/div/div[2]/div/div/button</value>
+      <webElementGuid>5d27f933-b816-4b9e-82bd-8564c84aaff0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pieslēgties ar e-pastu'])[1]/preceding::button[1]</value>
+      <webElementGuid>32813b20-4ce8-4431-b84f-6f7a2ef951f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/button</value>
+      <webElementGuid>e0fd1ae3-f8bc-4be2-a1a7-ace4cefad1f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Turpiniet kā viesis' or . = 'Turpiniet kā viesis')]</value>
+      <webElementGuid>4a7c565f-f86b-4708-bacd-4a6f981652f7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
