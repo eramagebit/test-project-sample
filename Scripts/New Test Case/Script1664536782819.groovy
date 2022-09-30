@@ -21,9 +21,32 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.madaracosmetics.com/lv')
 
-WebUI.click(findTestObject('Object Repository/test/Page_MDARA Organic Skincare/svg_Blogs_icon-icon-2oA'))
+WebUI.click(findTestObject('Object Repository/test/Page_MDARA Organic Skincare/button_Ataut visas skdatnes'))
 
-WebUI.click(findTestObject('Object Repository/test/Page_MDARA Organic Skincare/div_TAVA VAJADZBA'))
+WebUI.click(findTestObject('Object Repository/test/Page_MDARA Organic Skincare/div_VEIKALS_menu-dropdownTrigger-1-s'))
 
-WebUI.click(findTestObject('Object Repository/test/Page_MDARA Organic Skincare/a_Skatt visu'))
+WebUI.click(findTestObject('Object Repository/test/Page_Oficilais e-veikals  MDARA Cosmetics/img_FACTORY OUTLET_productCard-image-Wn5 pr_78b824'))
+
+WebUI.click(findTestObject('Object Repository/test/Page_City CC Anti-Pollution toni korijos kr_17d7d7/button_Pievienot grozam'))
+
+WebUI.click(findTestObject('Object Repository/test/Page_City CC Anti-Pollution toni korijos kr_17d7d7/svg_Blogs_iconHover'))
+
+WebUI.click(findTestObject('Object Repository/test/Page_Iepirkumu grozs - MDARA Organic Skincare/button_Turpint'))
+
+WebUI.click(findTestObject('Object Repository/test/Page_Iepirkumu grozs - MDARA Organic Skincare/button_Turpiniet k viesis'))
+
+WebUI.setText(findTestObject('Object Repository/test/Page_Iepirkumu grozs - MDARA Organic Skincare/input__shipping_postcode'), 
+    '1010')
+
+WebUI.click(findTestObject('Object Repository/test/Page_Iepirkumu grozs - MDARA Organic Skincare/label_DPD Kurjers0,49Est. delivery on Oct 0_9a16ee'))
+
+WebUI.click(findTestObject('Object Repository/test/Page_Iepirkumu grozs - MDARA Organic Skincare/label_Latvijas Pasta PakomtsBezmaksasEst. d_c92a61'))
+
+WebUI.click(findTestObject('Object Repository/test/Page_Iepirkumu grozs - MDARA Organic Skincare/label_Express Pasts kurjersBezmaksasEst. de_e3ce5f'))
+
+WebUI.click(findTestObject('Object Repository/test/Page_Iepirkumu grozs - MDARA Organic Skincare/label_DPD Kurjers0,49Est. delivery on Oct 0_9a16ee'))
+
+WebUI.click(findTestObject('Object Repository/test/Page_Iepirkumu grozs - MDARA Organic Skincare/circle'))
+
+WebUI.click(findTestObject('Object Repository/test/Page_Iepirkumu grozs - MDARA Organic Skincare/svg_Est. delivery on Oct 04, 2022_icon-icon-2oA'))
 

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>6301cc56-3bad-4cba-a523-a31f433cae80</webElementGuid>
+      <webElementGuid>7f5a9c7d-f6da-488e-891d-84ca97d4a1c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>5dc0c27c-aab1-4732-b533-7feb20405054</webElementGuid>
+      <webElementGuid>dfcd08ce-294a-4577-9ced-f3891a77aa98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>width</name>
       <type>Main</type>
       <value>16</value>
-      <webElementGuid>ab136796-ca7e-4204-9740-fc207805a2f3</webElementGuid>
+      <webElementGuid>cb3bffba-4675-456e-b07f-da52c0acc5bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>height</name>
       <type>Main</type>
       <value>16</value>
-      <webElementGuid>bcda1e20-9026-4600-bb58-1c53e3c12c31</webElementGuid>
+      <webElementGuid>5623f951-bce9-4031-bb02-4e74ecf6dbd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 24 24</value>
-      <webElementGuid>a5ee5777-39a8-43d8-94eb-7bd71b70475d</webElementGuid>
+      <webElementGuid>55949751-44b4-4a70-9ece-c58267111fce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>969887fc-0c9f-4140-ae94-c489cccb93c2</webElementGuid>
+      <webElementGuid>e97e5d00-d261-4dc5-940e-185ab0767770</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>stroke</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>e8070fdd-5447-4526-a46b-be5c41739beb</webElementGuid>
+      <webElementGuid>6ad4630a-a780-452a-af02-9b3d0d6eb9ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>afe3b42e-30d3-4a06-9d39-4792745f23c8</webElementGuid>
+      <webElementGuid>6ea3d4db-1f9e-428e-a0c8-0810cd578d42</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>stroke-linecap</name>
       <type>Main</type>
       <value>round</value>
-      <webElementGuid>e53824c4-cbb3-46df-a725-8e71cf80d100</webElementGuid>
+      <webElementGuid>de804832-18d6-418e-a74b-deacd0ae3b33</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>stroke-linejoin</name>
       <type>Main</type>
       <value>round</value>
-      <webElementGuid>50a65729-ad1a-4dac-86a0-dddb498ce1fa</webElementGuid>
+      <webElementGuid>9208fc76-779b-440b-95c5-55e588204dc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>class</name>
       <type>Main</type>
       <value>icon-icon-2oA</value>
-      <webElementGuid>7cc92232-d97c-4ba7-b932-97176635eebe</webElementGuid>
+      <webElementGuid>aa72b767-b5e0-4507-b8df-54a0aa8ecb26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;header-root-3zR header-fixed-3Fr header-transparent-1s3&quot;]/div[@class=&quot;header-wrapper-3hG&quot;]/div[@class=&quot;header-content-1wQ&quot;]/div[@class=&quot;header-firstRow-3Qm&quot;]/div[@class=&quot;header-navigationTrigger-Tl-&quot;]/div[@class=&quot;navigationTrigger-menu-3NW&quot;]/span[@class=&quot;icon-iconRoot-2hh&quot;]/svg[@class=&quot;icon-icon-2oA&quot;]</value>
-      <webElementGuid>691c6d59-bdba-4f8c-bbc0-bfccaaf09d23</webElementGuid>
+      <webElementGuid>d2eae163-fce6-4b02-b686-96bffaa58dfc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Blogs'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>c8b818d6-c403-4b2c-abdb-3b8d544c77b4</webElementGuid>
+      <webElementGuid>1dde78d0-dab2-4e19-8e4e-d63f7980bc1c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Par mums'])[1]/following::*[name()='svg'][1]</value>
-      <webElementGuid>9ed633d6-c3be-415a-bf21-31c618f0cb1e</webElementGuid>
+      <webElementGuid>89019a30-30a3-441b-a494-82d3c19c6904</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,7 +134,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Vēlmju saraksts'])[1]/preceding::*[name()='svg'][3]</value>
-      <webElementGuid>35e5bb25-7db0-4388-95f8-3f52359960c5</webElementGuid>
+      <webElementGuid>880c2429-d149-48c9-a982-9625a0c4442e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -142,6 +142,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Atvērt Vēlmju Sarakstus'])[1]/preceding::*[name()='svg'][3]</value>
-      <webElementGuid>66e27df0-5322-4e8c-af7b-9614a561180b</webElementGuid>
+      <webElementGuid>42c295a9-a30a-4f95-96f7-9495e226927b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

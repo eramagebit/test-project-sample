@@ -19,17 +19,13 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
+WebUI.setViewPortSize(1100, 800)
+
 WebUI.navigateToUrl('https://www.madaracosmetics.com/lv')
 
 WebUI.click(findTestObject('Object Repository/madaracosmetics2/Page_MDARA Organic Skincare/button_Ataut visas skdatnes'))
 
-WebUI.click(findTestObject('madaracosmetics2/Page_MDARA Organic Skincare/Hamburger'))
-
-WebUI.click(findTestObject('test/Page_MDARA Organic Skincare/div_TAVA VAJADZBA'))
-
-WebUI.click(findTestObject('test/Page_MDARA Organic Skincare/a_Skatt visu'))
-
-not_run: WebUI.click(findTestObject('Object Repository/madaracosmetics2/Page_MDARA Organic Skincare/div_TAVA VAJADZBA_menu-dropdownTrigger-1-s'))
+WebUI.click(findTestObject('Object Repository/madaracosmetics2/Page_MDARA Organic Skincare/div_TAVA VAJADZBA_menu-dropdownTrigger-1-s'))
 
 WebUI.mouseOver(findTestObject('Object Repository/madaracosmetics2/Page_Oficilais e-veikals  MDARA Cosmetics/img_Pielaiko tous virtuli_productCard-image_3588ae'))
 
@@ -52,7 +48,11 @@ WebUI.delay(3)
 WebUI.setText(findTestObject('Object Repository/madaracosmetics2/Page_Iepirkumu grozs - MDARA Organic Skincare/input__shipping_postcode'), 
     '1010')
 
-WebUI.click(findTestObject('Object Repository/madaracosmetics2/Page_Iepirkumu grozs - MDARA Organic Skincare/label_DPD Kurjers0,49Est. delivery on Oct 0_81fa2c'))
+WebUI.delay(10)
+
+WebUI.takeFullPageScreenshot()
+
+WebUI.click(findTestObject('test/Page_Iepirkumu grozs - MDARA Organic Skincare/svg_Est. delivery on Oct 04, 2022_icon-icon-2oA'))
 
 WebUI.click(findTestObject('Object Repository/madaracosmetics2/Page_Iepirkumu grozs - MDARA Organic Skincare/button_Apstiprini piegdes veidu'))
 

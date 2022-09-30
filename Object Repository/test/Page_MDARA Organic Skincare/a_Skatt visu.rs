@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>6e71c8d9-9c62-486f-838e-29fda784fe1d</webElementGuid>
+      <webElementGuid>30ca50d6-9616-4bd9-8d68-3d13daadbe5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>categoryMenu-item-2aZ link-never-vP7</value>
-      <webElementGuid>dfc90d10-8ae0-4c6e-aa58-c8b65c0aedb3</webElementGuid>
+      <webElementGuid>a084055e-787e-4317-95fb-a76274412d1a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/lv/veikals</value>
-      <webElementGuid>e78cc2a4-367e-4874-aa28-d8f39b03b004</webElementGuid>
+      <webElementGuid>d42fe821-0f57-4b96-9266-e01d3ab1ea6b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Skatīt visu</value>
-      <webElementGuid>833f06bb-e6fc-4691-a43e-67c98a19518e</webElementGuid>
+      <webElementGuid>d205f8e1-1fcb-4735-bb65-87900afda970</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;header-root-3zR header-fixed-3Fr&quot;]/aside[@class=&quot;navigation-root-23J navigation-root_open-39K&quot;]/div[@class=&quot;categoryMenu-root-Eln&quot;]/div[@class=&quot;categoryMenu-listItem-3os categoryMenu-expanded-1eW&quot;]/aside[@class=&quot;categoryMenu-dropdown-XVI&quot;]/div[@class=&quot;categoryMenu-content-2pn&quot;]/div[@class=&quot;categoryMenu-items-2PY&quot;]/a[@class=&quot;categoryMenu-item-2aZ link-never-vP7&quot;]</value>
-      <webElementGuid>5836612a-ad63-400e-b946-745d373783e8</webElementGuid>
+      <webElementGuid>d79553ee-e3b1-4b63-9fa3-de76e4dd84a2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div/aside[2]/div[3]/div[2]/aside/div/div/a</value>
-      <webElementGuid>34baed12-74eb-4b33-9c25-2691eaff5120</webElementGuid>
+      <webElementGuid>be77d31e-e9da-47c6-a1fd-fcc033066994</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Skatīt visu')])[7]</value>
-      <webElementGuid>9964e7bf-a756-4c60-aeb7-e0d481dd1761</webElementGuid>
+      <webElementGuid>9993acd0-538d-4cc2-bf87-10f1e4b6e4c5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='TAVA VAJADZĪBA'])[3]/following::a[1]</value>
-      <webElementGuid>d11f9bdd-7711-40ad-af18-97cb3f33dbbd</webElementGuid>
+      <webElementGuid>b7d76f6a-b2d0-4ec3-9327-16b86b900fa6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[47]/following::a[1]</value>
-      <webElementGuid>050da424-41b2-4057-a7f8-ceb2ed7402c3</webElementGuid>
+      <webElementGuid>45efd0eb-077b-43f7-bbcd-4c15472c4b7e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Anti-age'])[2]/preceding::a[1]</value>
-      <webElementGuid>1be5ffea-2b55-47be-bc2e-f0ee88f813c8</webElementGuid>
+      <webElementGuid>012653c3-45e5-4b07-bd32-1ea946e1d90b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Mitrināšana'])[2]/preceding::a[2]</value>
-      <webElementGuid>a47e97b2-4814-49d5-adfd-775ae1fcb023</webElementGuid>
+      <webElementGuid>fcd3b74b-cd76-48e9-bc05-d4333d1ebfd1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>(//a[contains(@href, '/lv/veikals')])[119]</value>
-      <webElementGuid>14aa0359-98e6-4eaa-b8e0-60ec750f0286</webElementGuid>
+      <webElementGuid>574384c1-ed59-4073-801a-bec90657c20d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/aside/div/div/a</value>
-      <webElementGuid>12c5ed95-bc74-4435-b591-4848befa6b88</webElementGuid>
+      <webElementGuid>9426e7eb-3959-4e8a-bbf4-e25e9b37b24b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/lv/veikals' and (text() = 'Skatīt visu' or . = 'Skatīt visu')]</value>
-      <webElementGuid>356f4f20-05c0-4dcb-b3b0-ebd07ef11274</webElementGuid>
+      <webElementGuid>da4b3d07-e54b-4c43-a919-f6eed3fce81a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
