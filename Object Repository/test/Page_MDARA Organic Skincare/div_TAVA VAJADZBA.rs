@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_TAVA VAJADZBA</name>
+   <tag></tag>
+   <elementGuidId>704051ee-5f49-4ade-8a51-1dc1cf7f1068</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/aside[2]/div[3]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>14f5d0d0-cbfa-4b4a-88d8-8fd73446c8fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>h3-clean categoryMenu-title-3JY</value>
+      <webElementGuid>a3a6fc07-4b33-4092-9d34-16ffb76a9023</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>TAVA VAJADZĪBA</value>
+      <webElementGuid>f967b34d-412c-4ff8-939c-dca18093a6a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;header-root-3zR header-fixed-3Fr&quot;]/aside[@class=&quot;navigation-root-23J navigation-root_open-39K&quot;]/div[@class=&quot;categoryMenu-root-Eln&quot;]/div[@class=&quot;categoryMenu-listItem-3os&quot;]/div[@class=&quot;h3-clean categoryMenu-title-3JY&quot;]</value>
+      <webElementGuid>9e4439bc-9563-446f-8359-fb6cfed05e93</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/aside[2]/div[3]/div[2]/div</value>
+      <webElementGuid>68a772ab-cadd-4902-bb75-8feef4956eee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[47]/following::div[2]</value>
+      <webElementGuid>71fda129-79a8-4ca7-bdb3-56887c4c6005</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=','])[47]/following::div[2]</value>
+      <webElementGuid>dc30dd64-462f-4191-a02b-d26792005257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Skatīt visu'])[7]/preceding::div[1]</value>
+      <webElementGuid>adaf6dbb-bc17-4322-a14e-cffcf14e5c30</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[2]/div</value>
+      <webElementGuid>9b62a9df-8fc0-4d03-8318-77b097a44bea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'TAVA VAJADZĪBA' or . = 'TAVA VAJADZĪBA')]</value>
+      <webElementGuid>21ad63ca-0bcb-474c-a870-11014cb08d2b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Hamburger</name>
+   <tag></tag>
+   <elementGuidId>0405de58-f3b3-415d-8d0c-32fa41854957</elementGuidId>
+   <imagePath>//li[2]/a/div</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@class = 'icon-icon-2oA']</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value>//li[2]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-icon-2oA</value>
+      <webElementGuid>31b18bd3-f81c-4838-81aa-eddc9d879704</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

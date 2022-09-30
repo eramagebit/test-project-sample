@@ -23,7 +23,13 @@ WebUI.navigateToUrl('https://www.madaracosmetics.com/lv')
 
 WebUI.click(findTestObject('Object Repository/madaracosmetics2/Page_MDARA Organic Skincare/button_Ataut visas skdatnes'))
 
-WebUI.click(findTestObject('Object Repository/madaracosmetics2/Page_MDARA Organic Skincare/div_TAVA VAJADZBA_menu-dropdownTrigger-1-s'))
+WebUI.click(findTestObject('madaracosmetics2/Page_MDARA Organic Skincare/Hamburger'))
+
+WebUI.click(findTestObject('test/Page_MDARA Organic Skincare/div_TAVA VAJADZBA'))
+
+WebUI.click(findTestObject('test/Page_MDARA Organic Skincare/a_Skatt visu'))
+
+not_run: WebUI.click(findTestObject('Object Repository/madaracosmetics2/Page_MDARA Organic Skincare/div_TAVA VAJADZBA_menu-dropdownTrigger-1-s'))
 
 WebUI.mouseOver(findTestObject('Object Repository/madaracosmetics2/Page_Oficilais e-veikals  MDARA Cosmetics/img_Pielaiko tous virtuli_productCard-image_3588ae'))
 
