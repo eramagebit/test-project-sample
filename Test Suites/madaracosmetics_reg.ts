@@ -12,10 +12,10 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>6c34e6dd-a475-4904-9f29-284ed888bba2</testSuiteGuid>
    <testCaseLink>
-      <guid>c64bed92-a53e-408a-a5ba-5527003f9c1c</guid>
+      <guid>84c2c918-b615-494d-80d6-bd9ab442d540</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Madara Cosmetics buyflow2</testCaseId>
+      <testCaseId>Test Cases/Madara Cosmetics - configurable product</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

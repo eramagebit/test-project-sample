@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Tavs e-pasts_email</name>
    <tag></tag>
-   <elementGuidId>8b501d1a-11fb-4280-9872-b2f0ccbd542c</elementGuidId>
+   <elementGuidId>529bce13-3566-4f41-8218-3a11da6bb1fd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -11,14 +11,10 @@
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#ec34e843-6799-4774-a928-8d81ef5dbcfb</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@name = 'email']</value>
+         <value>#9010f309-3cd1-45b9-9db4-7c8a45d6ff93</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c5cc57fb-483c-4f84-8832-c56e66120533</webElementGuid>
+      <webElementGuid>a32df7b1-cafe-4415-8dee-0f052336cef1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -34,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>textInput-input-30f</value>
-      <webElementGuid>c90f17a9-495a-4d9a-9c46-ac4c66771541</webElementGuid>
+      <webElementGuid>1b931929-2a30-4aee-a192-698214980beb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ec34e843-6799-4774-a928-8d81ef5dbcfb</value>
-      <webElementGuid>09d25d88-bfc5-4c4b-8883-a3b6d33775e8</webElementGuid>
+      <value>9010f309-3cd1-45b9-9db4-7c8a45d6ff93</value>
+      <webElementGuid>5652bd69-69a1-4d3d-9076-2914d743b321</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -50,23 +46,23 @@
       <name>name</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>e33a4932-1f3e-439f-9e62-2ce1fea1be48</webElementGuid>
+      <webElementGuid>3593fae5-04b3-4ec0-a3ea-063cd7b509d1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ec34e843-6799-4774-a928-8d81ef5dbcfb&quot;)</value>
-      <webElementGuid>1c9c4668-b561-428b-9b9d-b6e68799b85e</webElementGuid>
+      <value>id(&quot;9010f309-3cd1-45b9-9db4-7c8a45d6ff93&quot;)</value>
+      <webElementGuid>58f5cc11-954d-4a94-b47e-caaebd443764</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='ec34e843-6799-4774-a928-8d81ef5dbcfb']</value>
-      <webElementGuid>a066f140-9073-407f-afc2-9b9323795309</webElementGuid>
+      <value>//input[@id='9010f309-3cd1-45b9-9db4-7c8a45d6ff93']</value>
+      <webElementGuid>9cf59508-aa48-43f3-a00f-27c19e8837f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -74,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div[2]/div[2]/div/form/div/div/div/span/input</value>
-      <webElementGuid>44bc63ae-49ad-4097-8390-3a975fa99289</webElementGuid>
+      <webElementGuid>7c2adfc6-a5b3-4355-aa2d-41f45072f44c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -82,14 +78,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>4d9424d2-3ec4-4079-8484-6d9203d0835e</webElementGuid>
+      <webElementGuid>204bfbe9-7555-48ee-869d-3376f4891d17</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'ec34e843-6799-4774-a928-8d81ef5dbcfb' and @name = 'email']</value>
-      <webElementGuid>be053bb5-b8a7-44ef-b645-262984024b51</webElementGuid>
+      <value>//input[@id = '9010f309-3cd1-45b9-9db4-7c8a45d6ff93' and @name = 'email']</value>
+      <webElementGuid>42dfcd68-7849-48f9-8d8f-c2fb139773df</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

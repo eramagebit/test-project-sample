@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Pievienot grozam</name>
+   <name>li_Libya</name>
    <tag></tag>
-   <elementGuidId>970109a6-434c-486b-a73e-71dc8be8abfc</elementGuidId>
+   <elementGuidId>3117ec98-cf7b-4bc5-aeb5-a971a6c6cf18</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/div[2]/div/div[2]/section[3]/form/div/span/button</value>
+         <value>//li[@id='c2hpcHBpbmdfY291bnRyeQ_LY']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.actions-addToCart-uCI.actions-addToCartDesktop-1yT > button.button-primary-2sr</value>
+         <value>#c2hpcHBpbmdfY291bnRyeQ_LY</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,103 +21,119 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>button</value>
-      <webElementGuid>d148b9c7-23b1-4529-9f28-090ff065692e</webElementGuid>
+      <value>li</value>
+      <webElementGuid>173bc374-8cbf-45dc-9e9a-2e6cc57146f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>type</name>
+      <name>id</name>
       <type>Main</type>
-      <value>submit</value>
-      <webElementGuid>a5964c60-a3b7-453f-b5db-4af7056cbe3d</webElementGuid>
+      <value>c2hpcHBpbmdfY291bnRyeQ_LY</value>
+      <webElementGuid>f36099b1-c66f-495b-8c54-621d6773967b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>option</value>
+      <webElementGuid>588b1d31-b098-4be1-ac3b-1c0da519fa14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-selected</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>1f0768b3-e9b9-4c85-b9b6-5671770cf7c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>button-primary-2sr</value>
-      <webElementGuid>f81081df-bcc9-4051-bc4e-87d5cfb77219</webElementGuid>
+      <value>select-customOption-2S-</value>
+      <webElementGuid>e3f0f22f-af15-47e0-91c2-ac69506f1d76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Pievienot grozam</value>
-      <webElementGuid>136d60d2-8a25-4150-8ae6-bb1e6dec1623</webElementGuid>
+      <value>Libya</value>
+      <webElementGuid>6ec808f4-30d4-4f01-962c-9701d2a04342</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;main-content-3U-&quot;]/div[@class=&quot;productPage-root-2wd&quot;]/div[@class=&quot;productPage-main-2sY&quot;]/section[@class=&quot;productPage-section-2py productPage-productInformation-UOA&quot;]/form[1]/div[@class=&quot;actions-cartActions-3e9&quot;]/span[@class=&quot;actions-addToCart-uCI actions-addToCartDesktop-1yT&quot;]/button[@class=&quot;button-primary-2sr&quot;]</value>
-      <webElementGuid>b0e4d157-ad29-443e-8ae9-5c6fa83d6191</webElementGuid>
+      <value>id(&quot;c2hpcHBpbmdfY291bnRyeQ_LY&quot;)</value>
+      <webElementGuid>31c5eabd-bec0-468a-83dd-05acf79c41c7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='submit'])[3]</value>
-      <webElementGuid>1c33e621-beea-40a9-b140-585470af19a3</webElementGuid>
+      <value>//li[@id='c2hpcHBpbmdfY291bnRyeQ_LY']</value>
+      <webElementGuid>eff35fcb-fb43-43cc-97cc-1bd83a20c797</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div[2]/div/div[2]/section[3]/form/div/span/button</value>
-      <webElementGuid>3e823551-26fb-45f3-befe-2675bd6fe490</webElementGuid>
+      <value>//ul[@id='c2hpcHBpbmdfY291bnRyeQ_list-box']/li[75]</value>
+      <webElementGuid>98e7a1d0-681d-464c-9e40-ec20a55e88b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[86]/following::button[1]</value>
-      <webElementGuid>6209b881-4d37-46ea-9ae4-577774911ed6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lebanon'])[2]/following::li[1]</value>
+      <webElementGuid>79dec4d2-b558-4a24-8755-66cc61a09a11</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=','])[86]/following::button[1]</value>
-      <webElementGuid>197b2f70-1f44-4636-a15d-1111c38b97bc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Latvia'])[2]/following::li[2]</value>
+      <webElementGuid>ae7e463c-25f2-4033-84a5-8c0af814616b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pievienot grozam'])[50]/preceding::button[1]</value>
-      <webElementGuid>864fab7e-1cc6-4b42-a3fb-0897ccedbd35</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Liechtenstein'])[2]/preceding::li[1]</value>
+      <webElementGuid>fb4ea256-d2b0-41db-8e7f-d57277fff1cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Par mani'])[1]/preceding::button[5]</value>
-      <webElementGuid>b1bb5fea-a2da-4bde-9288-b28ff39fd8ad</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lithuania'])[2]/preceding::li[2]</value>
+      <webElementGuid>658d6de7-1215-4814-9e65-174dbabb5494</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div/span/button</value>
-      <webElementGuid>97b2e4a3-b85f-46bb-9759-0188dd2a4aff</webElementGuid>
+      <value>//li[75]</value>
+      <webElementGuid>328be0dc-8cfb-4fce-8d30-c3a94265f2ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Pievienot grozam' or . = 'Pievienot grozam')]</value>
-      <webElementGuid>428dd387-2478-4cc5-b77f-395efdf50341</webElementGuid>
+      <value>//li[@id = 'c2hpcHBpbmdfY291bnRyeQ_LY' and (text() = 'Libya' or . = 'Libya')]</value>
+      <webElementGuid>0da32a25-118a-466b-8055-e7b6263c8885</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

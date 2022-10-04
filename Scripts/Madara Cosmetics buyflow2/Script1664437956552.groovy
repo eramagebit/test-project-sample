@@ -25,6 +25,18 @@ WebUI.navigateToUrl('https://www.madaracosmetics.com/lv')
 
 WebUI.click(findTestObject('Object Repository/madaracosmetics2/Page_MDARA Organic Skincare/button_Ataut visas skdatnes'))
 
+WebUI.click(findTestObject('Object Repository/madaracosmeticsconfigurableproduct/Page_MDARA Organic Skincare/span_Latvieu'))
+
+WebUI.click(findTestObject('madaracosmeticsconfigurableproduct/li_valsts'))
+
+WebUI.click(findTestObject('madaracosmeticsconfigurableproduct/OptionLatvija'))
+
+WebUI.click(findTestObject('madaracosmeticsconfigurableproduct/li_valoda'))
+
+WebUI.click(findTestObject('madaracosmeticsconfigurableproduct/OptionLatviesu'))
+
+WebUI.click(findTestObject('Object Repository/madaracosmeticsconfigurableproduct/Page_MDARA Organic Skincare/button_Apstiprint'))
+
 WebUI.click(findTestObject('Object Repository/madaracosmetics2/Page_MDARA Organic Skincare/div_TAVA VAJADZBA_menu-dropdownTrigger-1-s'))
 
 WebUI.mouseOver(findTestObject('Object Repository/madaracosmetics2/Page_Oficilais e-veikals  MDARA Cosmetics/img_Pielaiko tous virtuli_productCard-image_3588ae'))
@@ -33,7 +45,7 @@ WebUI.click(findTestObject('Object Repository/madaracosmetics2/Page_Oficilais e-
 
 WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/madaracosmetics2/Page_Velvet Wear Matta krmveida lpu krsa/button_Pievienot grozam'))
+WebUI.click(findTestObject('madaracosmetics2/Page_Velvet Wear Matta krmveida lpu krsa/button_Pievienot grozam'))
 
 WebUI.mouseOver(findTestObject('Object Repository/madaracosmetics2/Page_Velvet Wear Matta krmveida lpu krsa/span_1'))
 
@@ -45,16 +57,22 @@ WebUI.click(findTestObject('Object Repository/madaracosmetics2/Page_Iepirkumu gr
 
 WebUI.delay(3)
 
+WebUI.click(findTestObject('thrthrth/li_country'))
+
+WebUI.click(findTestObject('thrthrth/OptionLatvia'))
+
+WebUI.click(findTestObject('thrthrth/li_country'))
+
 WebUI.setText(findTestObject('Object Repository/madaracosmetics2/Page_Iepirkumu grozs - MDARA Organic Skincare/input__shipping_postcode'), 
     '1010')
 
 WebUI.delay(10)
 
-WebUI.takeFullPageScreenshot()
-
-WebUI.click(findTestObject('test/Page_Iepirkumu grozs - MDARA Organic Skincare/svg_Est. delivery on Oct 04, 2022_icon-icon-2oA'))
+WebUI.click(findTestObject('testtest/Page_Iepirkumu grozs - MDARA Organic Skincare/label_DPD Kurjers0,49Est. delivery on Oct 0_c83c3a'))
 
 WebUI.click(findTestObject('Object Repository/madaracosmetics2/Page_Iepirkumu grozs - MDARA Organic Skincare/button_Apstiprini piegdes veidu'))
+
+WebUI.delay(3)
 
 WebUI.setText(findTestObject('Object Repository/madaracosmetics2/Page_Iepirkumu grozs - MDARA Organic Skincare/input_Tavs e-pasts_email'), 
     'test@test.lv')

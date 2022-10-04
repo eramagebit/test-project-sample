@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Turpiniet k viesis</name>
+   <tag></tag>
+   <elementGuidId>7cc958b9-3660-4301-b0f5-5432d518ca7b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/aside/div/div/div[2]/div/div/button/span/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1ffcab80-3acb-41d6-a41a-59b77c9d535d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Turpiniet kā viesis</value>
+      <webElementGuid>b3053cfa-6e5a-4218-842b-b9cf1730d1ba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/aside[@class=&quot;dialog-root-1kR dialog-rootOpen-3S0&quot;]/div[@class=&quot;dialog-wrapper-1Dm&quot;]/div[@class=&quot;dialog-dialog-NuY dialog-dialogWithLogo-2Oo&quot;]/div[@class=&quot;dialog-body-30t&quot;]/div[@class=&quot;signIn-root-jBY&quot;]/div[@class=&quot;signIn-guestCheckout-3Ay&quot;]/button[@class=&quot;button-secondary-2QJ button-fullWidth-2zB&quot;]/span[@class=&quot;signIn-buttonContent-1P8&quot;]/span[2]</value>
+      <webElementGuid>909cff31-2839-41e0-b607-98dc0d7a015e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/aside/div/div/div[2]/div/div/button/span/span[2]</value>
+      <webElementGuid>6e82dfa3-5b21-4cca-b077-37342c9d59aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pieslēgties ar e-pastu'])[1]/preceding::span[1]</value>
+      <webElementGuid>87fc8abb-b40d-4f7a-844c-dd941db89bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Turpiniet kā viesis']/parent::*</value>
+      <webElementGuid>6488a71c-3d39-4c1d-bd07-224d7fd544f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span/span[2]</value>
+      <webElementGuid>0ae7891d-fe8d-4eeb-a3dd-24e8b102fcc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Turpiniet kā viesis' or . = 'Turpiniet kā viesis')]</value>
+      <webElementGuid>4db3b733-b1a8-463a-89ec-ab0da7954239</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

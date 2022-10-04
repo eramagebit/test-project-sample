@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Pievienot grozam</name>
+   <name>button_Apstiprint</name>
    <tag></tag>
-   <elementGuidId>970109a6-434c-486b-a73e-71dc8be8abfc</elementGuidId>
+   <elementGuidId>a8cddd1b-7b86-4c6b-ab14-ac1d2db62fba</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/div[2]/div/div[2]/section[3]/form/div/span/button</value>
+         <value>//button[@type='submit']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>span.actions-addToCart-uCI.actions-addToCartDesktop-1yT > button.button-primary-2sr</value>
+         <value>span.storeSwitcher-submit-4_d > button.button-primary-2sr.button-fullWidth-2zB</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d148b9c7-23b1-4529-9f28-090ff065692e</webElementGuid>
+      <webElementGuid>b643580a-bfe3-4d0e-afce-1e16bdf3e5f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,94 +30,94 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>a5964c60-a3b7-453f-b5db-4af7056cbe3d</webElementGuid>
+      <webElementGuid>d1a580c2-2749-4af6-8d05-1eb132fa3c72</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>button-primary-2sr</value>
-      <webElementGuid>f81081df-bcc9-4051-bc4e-87d5cfb77219</webElementGuid>
+      <value>button-primary-2sr button-fullWidth-2zB</value>
+      <webElementGuid>6530a432-00d8-49e5-83a9-7812f6a9dda5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Pievienot grozam</value>
-      <webElementGuid>136d60d2-8a25-4150-8ae6-bb1e6dec1623</webElementGuid>
+      <value>Apstiprināt</value>
+      <webElementGuid>bd5a4219-64a6-4603-a621-54522828f369</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;main-content-3U-&quot;]/div[@class=&quot;productPage-root-2wd&quot;]/div[@class=&quot;productPage-main-2sY&quot;]/section[@class=&quot;productPage-section-2py productPage-productInformation-UOA&quot;]/form[1]/div[@class=&quot;actions-cartActions-3e9&quot;]/span[@class=&quot;actions-addToCart-uCI actions-addToCartDesktop-1yT&quot;]/button[@class=&quot;button-primary-2sr&quot;]</value>
-      <webElementGuid>b0e4d157-ad29-443e-8ae9-5c6fa83d6191</webElementGuid>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;header-root-3zR header-fixed-3Fr header-transparent-1s3&quot;]/div[@class=&quot;header-wrapper-3hG&quot;]/div[@class=&quot;header-content-1wQ&quot;]/div[@class=&quot;header-firstRow-3Qm&quot;]/ul[@class=&quot;header-buttons-31h&quot;]/li[@class=&quot;header-storeSwitcher-3rS&quot;]/div[@class=&quot;storeSwitcher-root-P9n&quot;]/aside[1]/div[@class=&quot;storeSwitcher-menu_open-N9p&quot;]/form[@class=&quot;storeSwitcher-form-3Cr&quot;]/span[@class=&quot;storeSwitcher-submit-4_d&quot;]/button[@class=&quot;button-primary-2sr button-fullWidth-2zB&quot;]</value>
+      <webElementGuid>f2cf706a-19d3-436b-b889-a647eb204f1d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='submit'])[3]</value>
-      <webElementGuid>1c33e621-beea-40a9-b140-585470af19a3</webElementGuid>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>f11e8d62-d80c-489b-86ef-12ae8fc1c175</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div[2]/div/div[2]/section[3]/form/div/span/button</value>
-      <webElementGuid>3e823551-26fb-45f3-befe-2675bd6fe490</webElementGuid>
+      <value>//div[@id='root']/main/div/div[2]/div[2]/div/ul[2]/li[4]/div/aside/div/form/span/button</value>
+      <webElementGuid>45fe1e74-a668-449b-8841-e7895e6a14c1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[86]/following::button[1]</value>
-      <webElementGuid>6209b881-4d37-46ea-9ae4-577774911ed6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[2]/following::button[1]</value>
+      <webElementGuid>8ace3197-a83a-4e28-bc0d-6f38d01b9cff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=','])[86]/following::button[1]</value>
-      <webElementGuid>197b2f70-1f44-4636-a15d-1111c38b97bc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VEIKALS'])[1]/preceding::button[1]</value>
+      <webElementGuid>d078ff67-4707-44c6-974f-7383c335410a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Pievienot grozam'])[50]/preceding::button[1]</value>
-      <webElementGuid>864fab7e-1cc6-4b42-a3fb-0897ccedbd35</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VEIKALS'])[2]/preceding::button[1]</value>
+      <webElementGuid>366d596c-238c-4bde-9468-d050fc7626d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Par mani'])[1]/preceding::button[5]</value>
-      <webElementGuid>b1bb5fea-a2da-4bde-9288-b28ff39fd8ad</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Apstiprināt']/parent::*</value>
+      <webElementGuid>a1b71b0b-ab90-457e-b4ae-7eb1dbf4a36e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/div/span/button</value>
-      <webElementGuid>97b2e4a3-b85f-46bb-9759-0188dd2a4aff</webElementGuid>
+      <value>//span/button</value>
+      <webElementGuid>08819340-08c6-4225-8cfe-5e6f377cdcad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Pievienot grozam' or . = 'Pievienot grozam')]</value>
-      <webElementGuid>428dd387-2478-4cc5-b77f-395efdf50341</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Apstiprināt' or . = 'Apstiprināt')]</value>
+      <webElementGuid>4b015110-3d31-45fd-ba57-986b498d348b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

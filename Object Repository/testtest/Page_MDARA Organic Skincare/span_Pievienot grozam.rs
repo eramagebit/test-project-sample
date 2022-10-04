@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Pievienot grozam</name>
+   <tag></tag>
+   <elementGuidId>75136f6d-4310-4327-b985-1e3ecc71ff51</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div[2]/div[2]/ul/li[4]/aside/div/div[2]/div[2]/div/div/div[3]/span/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7b961a67-5be2-49aa-ab81-5a6b93d83c62</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Pievienot grozam</value>
+      <webElementGuid>96e4be98-c570-4a81-9d20-848939726a51</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;header-root-3zR header-fixed-3Fr header-scrolled-2mf&quot;]/div[@class=&quot;header-wrapper-3hG&quot;]/div[@class=&quot;header-content-1wQ&quot;]/div[@class=&quot;header-secondRow-1Wz&quot;]/ul[@class=&quot;menu-root-1cB&quot;]/li[@class=&quot;menu-title-3KT menu-hover-2ZV&quot;]/aside[@class=&quot;menu-dropdown-1Dc&quot;]/div[@class=&quot;menu-content-dPu&quot;]/div[@class=&quot;menu-products-t0E&quot;]/div[@class=&quot;menu-regular-1r_&quot;]/div[1]/div[@class=&quot;productCard-imageContainer-xwt&quot;]/div[@class=&quot;productCard-addToBag-2dz&quot;]/span[@class=&quot;addToCart-root-17X link-never-vP7&quot;]/button[@class=&quot;addToCart-addToCartIcon-29c&quot;]/span[1]</value>
+      <webElementGuid>4cfdb784-4093-4c66-9524-1974299654d4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div[2]/div[2]/ul/li[4]/aside/div/div[2]/div[2]/div/div/div[3]/span/button/span</value>
+      <webElementGuid>87f19a4b-76d4-4c72-b5a2-a3525aa6abc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[21]/following::span[4]</value>
+      <webElementGuid>8a0c609b-9562-44ea-9ea6-c692f9a55873</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=','])[21]/following::span[7]</value>
+      <webElementGuid>3af9a559-4c3f-428a-bb54-5870a28cb2df</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time Miracle'])[1]/preceding::span[1]</value>
+      <webElementGuid>f928b218-13e4-45fc-8ce0-690be6c59a52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wrinkle Resist acu krēms - Bez aplikatora'])[1]/preceding::span[4]</value>
+      <webElementGuid>d1e51c88-4349-487c-b9b0-06647eeace67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/aside/div/div[2]/div[2]/div/div/div[3]/span/button/span</value>
+      <webElementGuid>f87fb616-d1ee-48c3-a90b-e290ca4861e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Pievienot grozam' or . = 'Pievienot grozam')]</value>
+      <webElementGuid>0b32f479-d4ec-426f-a311-d3e68eb9d35a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

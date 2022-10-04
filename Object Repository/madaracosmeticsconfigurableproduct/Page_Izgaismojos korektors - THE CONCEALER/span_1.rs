@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_1</name>
+   <tag></tag>
+   <elementGuidId>f366fdd9-ed07-4a38-87d5-9bdcbffad5b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div[2]/div/ul[2]/li/div/a/span[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.cartTrigger-counter-9dO.cartTrigger-counterDark-1Wq</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6be11399-c6fc-49cb-b1b0-4a8563f92342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cartTrigger-counter-9dO cartTrigger-counterDark-1Wq</value>
+      <webElementGuid>044d7dd9-eda3-4b5d-96f3-9d49c9086253</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>c5f858e7-49c1-4d11-b040-b5cf9be7433e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;header-root-3zR&quot;]/div[@class=&quot;header-wrapper-3hG&quot;]/div[@class=&quot;header-content-1wQ&quot;]/div[@class=&quot;header-firstRow-3Qm&quot;]/ul[@class=&quot;header-buttons-31h&quot;]/li[@class=&quot;header-cart-RHA&quot;]/div[@class=&quot;cartTrigger-root-3-y&quot;]/a[@class=&quot;cartTrigger-trigger-2rF&quot;]/span[@class=&quot;cartTrigger-counter-9dO cartTrigger-counterDark-1Wq&quot;]</value>
+      <webElementGuid>f4913793-64ed-4b81-8ffc-0589340ab424</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div[2]/div/ul[2]/li/div/a/span[2]</value>
+      <webElementGuid>fcf09a4f-2cff-42c6-bac2-201ccce68381</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Blogs'])[1]/following::span[3]</value>
+      <webElementGuid>bdd60dc3-759e-4943-af91-ff17eaa1eb90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Par mums'])[1]/following::span[3]</value>
+      <webElementGuid>69fd593b-b24c-4804-8ca2-b70856368f11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Iepirkumu grozs'])[1]/preceding::span[1]</value>
+      <webElementGuid>693b15e1-9078-467f-9338-0bfc7c8c7ef7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Concealer'])[1]/preceding::span[3]</value>
+      <webElementGuid>7fec6e2f-86e9-4369-b758-bce569d06ccd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='1']/parent::*</value>
+      <webElementGuid>a7911e7a-903e-4623-94f4-465121fb1c0e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]</value>
+      <webElementGuid>fe74cff7-888b-4f9a-a047-0e7d440a36dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '1' or . = '1')]</value>
+      <webElementGuid>c586ab92-b9fc-4f06-99b5-642a8b053eab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_MAKE-UP_menu-dropdownTrigger-1-s</name>
+   <tag></tag>
+   <elementGuidId>9af5d1f1-21fd-4262-b9f6-ab485e0b5cd8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div[2]/div[2]/ul/li[6]/a/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li.menu-title-3KT.menu-hover-2ZV > a.text-small.text-upper.text-primary.menu-titleText-2Qo.menu-displayFirst-1Pg.link-never-vP7 > div.menu-dropdownTrigger-1-s</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>8c74ceb7-8d7e-4c9c-b617-23e159ba3872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-dropdownTrigger-1-s</value>
+      <webElementGuid>9a0fa46d-baa1-4bac-a405-1773294a338c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;header-root-3zR header-fixed-3Fr&quot;]/div[@class=&quot;header-wrapper-3hG&quot;]/div[@class=&quot;header-content-1wQ&quot;]/div[@class=&quot;header-secondRow-1Wz&quot;]/ul[@class=&quot;menu-root-1cB&quot;]/li[@class=&quot;menu-title-3KT menu-hover-2ZV&quot;]/a[@class=&quot;text-small text-upper text-primary menu-titleText-2Qo menu-displayFirst-1Pg link-never-vP7&quot;]/div[@class=&quot;menu-dropdownTrigger-1-s&quot;]</value>
+      <webElementGuid>772d83aa-14f4-4228-82df-2df3a77ea426</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div[2]/div[2]/ul/li[6]/a/div</value>
+      <webElementGuid>6462663e-2cfc-4738-aec4-11aeb60348ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/div</value>
+      <webElementGuid>2add344c-4caa-453f-b2b4-3fb057a0f383</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

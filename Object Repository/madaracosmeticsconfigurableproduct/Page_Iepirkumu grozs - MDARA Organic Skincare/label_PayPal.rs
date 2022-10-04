@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_PayPal</name>
+   <tag></tag>
+   <elementGuidId>ecfb8f05-73e8-43a3-9a63-705655f7b19a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div[3]/div[2]/form/label[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>label.radioGroup-root-2Tl.radioGroup-selected-1D8</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>6d2ac975-d87b-4322-ae35-ca18432a2464</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>radioGroup-root-2Tl radioGroup-selected-1D8</value>
+      <webElementGuid>d3220f24-32f3-46a4-b1ef-6b043f1ae11c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PayPal</value>
+      <webElementGuid>b14387a9-72f2-408d-a2f2-117226b5ccbb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;main-content-3U-&quot;]/div[@class=&quot;checkoutPage-root-1g1&quot;]/div[@class=&quot;checkoutPage-container-E0x&quot;]/div[@class=&quot;checkoutPage-main-2nO&quot;]/div[1]/div[2]/div[@class=&quot;checkoutStep-root-2-p&quot;]/div[@class=&quot;checkoutStep-content-bW9&quot;]/form[1]/label[@class=&quot;radioGroup-root-2Tl radioGroup-selected-1D8&quot;]</value>
+      <webElementGuid>8c4340d4-2a09-4d59-b500-ada3b25ec35f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div[3]/div[2]/form/label[6]</value>
+      <webElementGuid>f98063b4-dd1e-4ac2-b18d-643133580a54</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swedbank'])[1]/following::label[1]</value>
+      <webElementGuid>3a8fae0a-773f-4965-aff9-26941d0e7c12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dnb'])[1]/following::label[2]</value>
+      <webElementGuid>a5813e27-c871-46ea-b2f3-2d3274960746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trustly'])[1]/preceding::label[1]</value>
+      <webElementGuid>c850f677-e2ba-4b06-a3c5-f27a0539e738</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label[6]</value>
+      <webElementGuid>b8013005-7d9a-48f3-97b5-de255004eb4e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//label[(text() = 'PayPal' or . = 'PayPal')]</value>
+      <webElementGuid>07837fdd-88b7-4021-b55e-d30e2e70b951</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

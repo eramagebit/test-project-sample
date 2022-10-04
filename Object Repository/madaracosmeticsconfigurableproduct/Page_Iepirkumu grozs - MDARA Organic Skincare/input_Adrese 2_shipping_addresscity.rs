@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Tavs e-pasts_email</name>
+   <name>input_Adrese 2_shipping_addresscity</name>
    <tag></tag>
-   <elementGuidId>8b501d1a-11fb-4280-9872-b2f0ccbd542c</elementGuidId>
+   <elementGuidId>c936a93e-e6f8-4c8e-856e-8767d0f05d70</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div[2]/div[2]/div/form/div/div/div/span/input</value>
+         <value>//input[@id='city']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#ec34e843-6799-4774-a928-8d81ef5dbcfb</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@name = 'email']</value>
+         <value>#city</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -26,70 +22,70 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>c5cc57fb-483c-4f84-8832-c56e66120533</webElementGuid>
+      <webElementGuid>e355597f-b060-48c2-8770-7cd14c86ce0f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>textInput-input-30f</value>
-      <webElementGuid>c90f17a9-495a-4d9a-9c46-ac4c66771541</webElementGuid>
+      <value>textInput-input-30f textInput-error-xF9</value>
+      <webElementGuid>f29fca3a-ccd5-4775-a2d3-cc89d2d29e9d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>ec34e843-6799-4774-a928-8d81ef5dbcfb</value>
-      <webElementGuid>09d25d88-bfc5-4c4b-8883-a3b6d33775e8</webElementGuid>
+      <value>city</value>
+      <webElementGuid>8800ba4c-fa33-4b53-87ed-149c224a3862</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>e33a4932-1f3e-439f-9e62-2ce1fea1be48</webElementGuid>
+      <value>shipping_address[city]</value>
+      <webElementGuid>7ecc52c8-a5c6-40d5-b482-f05b52fdfdf5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;ec34e843-6799-4774-a928-8d81ef5dbcfb&quot;)</value>
-      <webElementGuid>1c9c4668-b561-428b-9b9d-b6e68799b85e</webElementGuid>
+      <value>id(&quot;city&quot;)</value>
+      <webElementGuid>5a89314b-7a83-4338-8942-efa80636b640</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='ec34e843-6799-4774-a928-8d81ef5dbcfb']</value>
-      <webElementGuid>a066f140-9073-407f-afc2-9b9323795309</webElementGuid>
+      <value>//input[@id='city']</value>
+      <webElementGuid>61ec25d2-9b2b-4c8a-a4fb-85b068b19a89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div[2]/div[2]/div/form/div/div/div/span/input</value>
-      <webElementGuid>44bc63ae-49ad-4097-8390-3a975fa99289</webElementGuid>
+      <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div[2]/div[2]/div/form/div[2]/div/div/div[6]/div/span/input</value>
+      <webElementGuid>f4148d95-0a4e-41eb-a7e7-fc051fbf2bc5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//input</value>
-      <webElementGuid>4d9424d2-3ec4-4079-8484-6d9203d0835e</webElementGuid>
+      <value>//div[6]/div/span/input</value>
+      <webElementGuid>4c4648b9-1fcb-420d-9383-f684c563d158</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'ec34e843-6799-4774-a928-8d81ef5dbcfb' and @name = 'email']</value>
-      <webElementGuid>be053bb5-b8a7-44ef-b645-262984024b51</webElementGuid>
+      <value>//input[@id = 'city' and @name = 'shipping_address[city]']</value>
+      <webElementGuid>fc9da348-ea2a-4737-9338-91fcb26fcb3c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

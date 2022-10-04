@@ -1,20 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>label_DPD Kurjers0,49Est. delivery on Oct 0_9a16ee</name>
+   <name>label_DPD Kurjers0,49Est. delivery on Oct 0_c83c3a</name>
    <tag></tag>
-   <elementGuidId>428c9ec1-12d4-4cc9-820c-8d59dc6041b8</elementGuidId>
+   <elementGuidId>8fb16678-3c9f-481c-a56b-d673cc59f0be</elementGuidId>
+   <imagePath></imagePath>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div/div[2]/div/form/div[2]/label[3]</value>
+         <value>//label[3]</value>
+      </entry>
+      <entry>
+         <key>IMAGE</key>
+         <value></value>
       </entry>
       <entry>
          <key>CSS</key>
+         <value></value>
       </entry>
       <entry>
          <key>BASIC</key>
-         <value>//*[@class = 'radioGroup-root-2Tl']</value>
+         <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;main-content-3U-&quot;]/div[@class=&quot;checkoutPage-root-1g1&quot;]/div[@class=&quot;checkoutPage-container-E0x&quot;]/div[@class=&quot;checkoutPage-main-2nO&quot;]/div[1]/div[2]/div[@class=&quot;checkoutStep-root-2-p&quot;]/div[@class=&quot;checkoutStep-content-bW9&quot;]/div[@class=&quot;loaderWrapper-root-PmU&quot;]/form[1]/div[@class=&quot;checkoutFieldset-root-2D6&quot;]/label[@class=&quot;radioGroup-root-2Tl&quot;]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>BASIC</selectorMethod>
@@ -25,31 +31,39 @@
       <name>tag</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>c6db1ded-4865-42cd-8280-a931876a9870</webElementGuid>
+      <webElementGuid>97bd2bc4-ae4c-438f-aa4f-af12c3db1029</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>radioGroup-root-2Tl</value>
-      <webElementGuid>3550c658-9dc6-44ac-bb19-893bf19bf6f7</webElementGuid>
+      <webElementGuid>ca7b9e58-3ff7-4f81-89df-400ff17328ca</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>DPD Kurjers0,49 €Est. delivery on Oct 04, 2022Ilgtspējīgs</value>
-      <webElementGuid>0ce1c722-b436-4fa9-aa7d-e4e1490ed192</webElementGuid>
+      <value>DPD Kurjers0,49 €Est. delivery on Oct 05, 2022Ilgtspējīgs</value>
+      <webElementGuid>4586c1d0-ac19-4ff2-a0a6-4113f449de1c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>false</isSelected>
+      <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;main-content-3U-&quot;]/div[@class=&quot;checkoutPage-root-1g1&quot;]/div[@class=&quot;checkoutPage-container-E0x&quot;]/div[@class=&quot;checkoutPage-main-2nO&quot;]/div[1]/div[2]/div[@class=&quot;checkoutStep-root-2-p&quot;]/div[@class=&quot;checkoutStep-content-bW9&quot;]/div[@class=&quot;loaderWrapper-root-PmU&quot;]/form[1]/div[@class=&quot;checkoutFieldset-root-2D6&quot;]/label[@class=&quot;radioGroup-root-2Tl&quot;]</value>
-      <webElementGuid>d87a4710-7355-469a-ba17-312f067b3f6b</webElementGuid>
+      <webElementGuid>0eb11d84-1beb-4cc8-afc1-7a189abd9757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>dpdclassic|dpdclassic</value>
+      <webElementGuid>6a40c45a-8517-45ac-99e0-454b3d733548</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -57,15 +71,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div/div[2]/div/div/div/div[2]/div/div[2]/div/form/div[2]/label[3]</value>
-      <webElementGuid>8de7cebd-d8e0-4316-8c99-7fd2b8861d1a</webElementGuid>
+      <webElementGuid>f1d2860a-0f43-43d9-abba-84737d3decfb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Est. delivery on Oct 04, 2022'])[2]/following::label[1]</value>
-      <webElementGuid>acd6f815-df24-4a53-8108-ba12f6dbc905</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Est. delivery on Oct 05, 2022'])[2]/following::label[1]</value>
+      <webElementGuid>1d6e889b-4f71-4e0b-a021-b5bace5bd605</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +87,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Bezmaksas'])[2]/following::label[1]</value>
-      <webElementGuid>96d9a9ed-50ec-4777-b8a2-1f34c559bfaf</webElementGuid>
+      <webElementGuid>50b87ecb-3f2f-45aa-99f3-58c76e99baad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,14 +95,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label[3]</value>
-      <webElementGuid>a20bc781-f598-4cf8-a414-d749f6376625</webElementGuid>
+      <webElementGuid>a0884f1c-ffd0-4d58-a0cb-b353b46ccc1a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//label[(text() = 'DPD Kurjers0,49 €Est. delivery on Oct 04, 2022Ilgtspējīgs' or . = 'DPD Kurjers0,49 €Est. delivery on Oct 04, 2022Ilgtspējīgs')]</value>
-      <webElementGuid>3e58072b-2f2a-458a-a28c-5c82a74f4b85</webElementGuid>
+      <value>//label[(text() = 'DPD Kurjers0,49 €Est. delivery on Oct 05, 2022Ilgtspējīgs' or . = 'DPD Kurjers0,49 €Est. delivery on Oct 05, 2022Ilgtspējīgs')]</value>
+      <webElementGuid>0ab6ff3b-6329-4146-b330-3a88c26d6996</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

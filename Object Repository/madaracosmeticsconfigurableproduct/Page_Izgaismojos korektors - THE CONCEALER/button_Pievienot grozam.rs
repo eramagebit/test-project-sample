@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Pievienot grozam</name>
    <tag></tag>
-   <elementGuidId>970109a6-434c-486b-a73e-71dc8be8abfc</elementGuidId>
+   <elementGuidId>f36ed4ed-7214-4e1e-8777-5ec05cbdef65</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>d148b9c7-23b1-4529-9f28-090ff065692e</webElementGuid>
+      <webElementGuid>ebedd941-a30b-405b-898d-3ab960b08408</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>a5964c60-a3b7-453f-b5db-4af7056cbe3d</webElementGuid>
+      <webElementGuid>4ed85749-3a5c-4b2b-9b71-c6c09548954c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button-primary-2sr</value>
-      <webElementGuid>f81081df-bcc9-4051-bc4e-87d5cfb77219</webElementGuid>
+      <webElementGuid>539a35dc-6a7a-4769-894e-c2d0fe3fe0a0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Pievienot grozam</value>
-      <webElementGuid>136d60d2-8a25-4150-8ae6-bb1e6dec1623</webElementGuid>
+      <webElementGuid>b5d63df2-684e-4806-ad7b-b0d0cded212f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,15 +54,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2dz&quot;]/div[@class=&quot;main-content-3U-&quot;]/div[@class=&quot;productPage-root-2wd&quot;]/div[@class=&quot;productPage-main-2sY&quot;]/section[@class=&quot;productPage-section-2py productPage-productInformation-UOA&quot;]/form[1]/div[@class=&quot;actions-cartActions-3e9&quot;]/span[@class=&quot;actions-addToCart-uCI actions-addToCartDesktop-1yT&quot;]/button[@class=&quot;button-primary-2sr&quot;]</value>
-      <webElementGuid>b0e4d157-ad29-443e-8ae9-5c6fa83d6191</webElementGuid>
+      <webElementGuid>e8317b87-9420-4f84-81d7-dee26f51b651</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='submit'])[3]</value>
-      <webElementGuid>1c33e621-beea-40a9-b140-585470af19a3</webElementGuid>
+      <value>(//button[@type='submit'])[4]</value>
+      <webElementGuid>20f1dae0-d3a2-4a7e-ae58-5d36b4c69f19</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,23 +70,23 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div[2]/div/div[2]/section[3]/form/div/span/button</value>
-      <webElementGuid>3e823551-26fb-45f3-befe-2675bd6fe490</webElementGuid>
+      <webElementGuid>22611d3c-2420-4510-b76d-0430a65d3e78</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='€'])[86]/following::button[1]</value>
-      <webElementGuid>6209b881-4d37-46ea-9ae4-577774911ed6</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Virtual Try-On'])[1]/following::button[1]</value>
+      <webElementGuid>3ca0b5fe-e2df-4e11-bf2c-864d4dec4d02</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)=','])[86]/following::button[1]</value>
-      <webElementGuid>197b2f70-1f44-4636-a15d-1111c38b97bc</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MOCHA 65'])[1]/following::button[2]</value>
+      <webElementGuid>30a64be4-3598-45ab-88ab-dcaf9a591910</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Pievienot grozam'])[50]/preceding::button[1]</value>
-      <webElementGuid>864fab7e-1cc6-4b42-a3fb-0897ccedbd35</webElementGuid>
+      <webElementGuid>35185c99-c9e3-4483-be46-5ffe2ff13525</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Par mani'])[1]/preceding::button[5]</value>
-      <webElementGuid>b1bb5fea-a2da-4bde-9288-b28ff39fd8ad</webElementGuid>
+      <webElementGuid>b169c255-04e7-4c0b-8a44-47ae9280bcc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/div/span/button</value>
-      <webElementGuid>97b2e4a3-b85f-46bb-9759-0188dd2a4aff</webElementGuid>
+      <webElementGuid>eb1ce014-667e-4984-9a1e-a9aaf54aa4eb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Pievienot grozam' or . = 'Pievienot grozam')]</value>
-      <webElementGuid>428dd387-2478-4cc5-b77f-395efdf50341</webElementGuid>
+      <webElementGuid>6ed5e438-1439-4099-8aba-4cb04a60bd56</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
